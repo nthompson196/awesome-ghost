@@ -11,6 +11,7 @@
 # 持续更新
 - 更多自定义设置
 - `ghost`更新问题
+- [A Ghost Demo: How to Go Headless with Ghost CMS [Tutorial]](https://snipcart.com/blog/ghost-demo-weekly-newsletter)
 
 ---
 
